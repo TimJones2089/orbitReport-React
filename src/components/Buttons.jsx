@@ -1,4 +1,4 @@
-// 
+
 import satData from "./satData";
 import style from './styling.css'
 
