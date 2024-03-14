@@ -1,4 +1,4 @@
-
+// 
 import style from './styling.css'
 
 export default function Banner() {
